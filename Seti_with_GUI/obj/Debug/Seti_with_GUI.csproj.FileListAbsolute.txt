@@ -1,0 +1,9 @@
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\bin\Debug\Seti_with_GUI.exe.config
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\bin\Debug\Seti_with_GUI.exe
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\bin\Debug\Seti_with_GUI.pdb
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.csprojResolveAssemblyReference.cache
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.Form1.resources
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.Properties.Resources.resources
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.csproj.GenerateResource.Cache
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.exe
+c:\users\egor\documents\visual studio 2015\Projects\Seti_with_GUI\Seti_with_GUI\obj\Debug\Seti_with_GUI.pdb
